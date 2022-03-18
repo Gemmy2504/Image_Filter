@@ -1,0 +1,177 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.SuggestedBindingRedirects.cache
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+D:\Education\Term 5\Algorithms\ALGO\Project\[TEMPLATE] ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\moham\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+E:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+E:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+E:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+E:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+E:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+E:\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+E:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+E:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.SuggestedBindingRedirects.cache
+E:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+E:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+E:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+E:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+E:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+E:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+E:\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V1.8\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\moham\Desktop\V1.8\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V1.8\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V1.8\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\moham\Desktop\V1.8\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\moham\Desktop\V1.8\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\moham\Desktop\V1.8\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\V1.8\ImageFilters\obj\Release\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Desktop\V1.8\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\moham\Desktop\V1.8\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\moham\Desktop\V1.8\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\V1.8\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\V1.8\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\moham\Desktop\V1.8\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V1.8\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.0\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\moham\Desktop\V2.0\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.0\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.0\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\moham\Desktop\V2.0\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\moham\Desktop\V2.0\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\moham\Desktop\V2.0\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\V2.0\ImageFilters\obj\Release\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Desktop\V2.0\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\moham\Desktop\V2.0\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\moham\Desktop\V2.0\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\V2.0\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\V2.0\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\moham\Desktop\V2.0\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.0\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.1\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\moham\Desktop\V2.1\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.1\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.1\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\moham\Desktop\V2.1\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\moham\Desktop\V2.1\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\moham\Desktop\V2.1\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\V2.1\ImageFilters\obj\Release\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Desktop\V2.1\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\moham\Desktop\V2.1\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\moham\Desktop\V2.1\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\V2.1\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\V2.1\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\moham\Desktop\V2.1\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.1\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\obj\Release\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.2\V2.1\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.3\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\moham\Desktop\V2.3\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.3\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.3\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\moham\Desktop\V2.3\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\moham\Desktop\V2.3\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\moham\Desktop\V2.3\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\V2.3\ImageFilters\obj\Release\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Desktop\V2.3\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\moham\Desktop\V2.3\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\moham\Desktop\V2.3\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\V2.3\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\V2.3\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\moham\Desktop\V2.3\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.3\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.4\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\moham\Desktop\V2.4\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.4\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.4\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\moham\Desktop\V2.4\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\moham\Desktop\V2.4\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\moham\Desktop\V2.4\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\V2.4\ImageFilters\obj\Release\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Desktop\V2.4\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\moham\Desktop\V2.4\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\moham\Desktop\V2.4\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\V2.4\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\V2.4\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\moham\Desktop\V2.4\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.4\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.5\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\moham\Desktop\V2.5\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.5\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.5\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\moham\Desktop\V2.5\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\moham\Desktop\V2.5\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\moham\Desktop\V2.5\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\V2.5\ImageFilters\obj\Release\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Desktop\V2.5\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\moham\Desktop\V2.5\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\moham\Desktop\V2.5\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\V2.5\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\V2.5\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\moham\Desktop\V2.5\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.5\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.8\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\moham\Desktop\V2.8\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.8\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\moham\Desktop\V2.8\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\moham\Desktop\V2.8\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\moham\Desktop\V2.8\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\moham\Desktop\V2.8\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\V2.8\ImageFilters\obj\Release\ImageFilters.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Desktop\V2.8\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\moham\Desktop\V2.8\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\moham\Desktop\V2.8\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\V2.8\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\V2.8\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\moham\Desktop\V2.8\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\moham\Desktop\V2.8\ImageFilters\obj\Release\ImageFilters.pdb
